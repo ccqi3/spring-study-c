@@ -1,4 +1,4 @@
-description = "Spring testcc"
+description = "Spring test c"
 
 apply plugin: "kotlin"
 
